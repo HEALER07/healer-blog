@@ -1,52 +1,86 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
-  "/demo/",
   {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/posts/",
+    text: "首页",
+    link: "/",
+    icon: "home"
+  },
+  {
+    text: "Java",
+    icon: "java",
     children: [
       {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "apple/",
-        children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
+        text: "Java 基础",
+        link: "/posts/java/basic/",
       },
       {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
-        children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
+        text: "Spring 系列",
+        link: "/posts/java/spring/",
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      {
+        text: "设计模式",
+        link: "/posts/java/design-patterns/",
+      },
+      {
+        text: "并发编程",
+        link: "/posts/java/concurrent/",
+      },
+      {
+        text: "JVM",
+        link: "/posts/java/jvm/",
+      },
     ],
   },
   {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: "数据库",
+    icon: "database",
+    children: [
+      {
+        text: "MySQL",
+        link: "/posts/database/mysql/",
+      },
+      {
+        text: "Redis",
+        link: "/posts/database/redis/",
+      },
+      {
+        text: "MongoDB",
+        link: "/posts/database/mongodb/",
+      },
+    ],
+  },
+  {
+    text: "中间件",
+    icon: "server",
+    children: [
+      {
+        text: "消息队列",
+        link: "/posts/middleware/mq/",
+      },
+      {
+        text: "注册中心",
+        link: "/posts/middleware/registry/",
+      },
+      {
+        text: "网关",
+        link: "/posts/middleware/gateway/",
+      },
+    ],
+  },
+  {
+    text: "架构设计",
+    icon: "sitemap",
+    link: "/posts/architecture/",
+  },
+  {
+    text: "开发工具",
+    icon: "tools",
+    link: "/posts/tools/",
+  },
+  {
+    text: "关于",
+    icon: "info",
+    link: "/about/",
   },
 ]);
