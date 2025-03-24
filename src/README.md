@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 程序员healer
 heroFullScreen: true
-tagline: 私人“知识”积累平台
+tagline: <marquee>私人“知识”积累平台</marquee>
 projects:
   - icon: link
     name: 菜鸟工具
