@@ -1,4 +1,5 @@
 ---
+home: true
 title: 关于我
 icon: user
 date: 2024-03-24
