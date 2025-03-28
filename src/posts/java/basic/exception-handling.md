@@ -7,7 +7,7 @@ tag:
   - Java
   - 异常
   - 错误处理
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 异常处理
@@ -326,4 +326,4 @@ public class ExceptionTraps {
 ::: info 扩展阅读
 - [Java 官方文档 - 异常处理](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
 - [Java 异常处理最佳实践](https://www.baeldung.com/java-exception-handling)
-::: 
+:::

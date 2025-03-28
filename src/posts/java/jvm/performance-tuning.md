@@ -7,7 +7,7 @@ tag:
   - Java
   - JVM
   - 性能调优
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # JVM 性能调优
@@ -413,4 +413,4 @@ public class GCProblems {
 ::: info 扩展阅读
 - [Java Performance](https://www.oreilly.com/library/view/java-performance-2nd/9781449358452/)
 - [Java Performance Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/)
-::: 
+:::

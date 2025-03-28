@@ -8,7 +8,7 @@ tag:
   - JVM
   - 内存模型
   - 垃圾回收
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # JVM 内存模型与垃圾回收
@@ -409,4 +409,4 @@ public class GCPause {
 ::: info 扩展阅读
 - [JVM 规范](https://docs.oracle.com/javase/specs/jvms/se8/html/)
 - [Java 性能优化权威指南](https://www.oreilly.com/library/view/java-performance-the/9781449363512/)
-::: 
+:::

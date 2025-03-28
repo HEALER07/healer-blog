@@ -4,7 +4,7 @@ export default sidebar({
   "/posts/java/": [
     {
       text: "Java 基础",
-      icon: "java",
+      icon: "leaf",
       collapsible: true,
       prefix: "basic/",
       children: "structure",

@@ -1,6 +1,7 @@
- ---
+---
 title: Spring Kafka
 icon: java
+order: 6
 category:
   - Java 核心
 tag:

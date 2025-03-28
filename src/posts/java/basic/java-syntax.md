@@ -7,7 +7,7 @@ tag:
   - Java
   - 语法
   - 基础
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 基础语法
@@ -286,4 +286,4 @@ public void method() throws IOException {
 ::: info 扩展阅读
 - [Java 官方文档 - 基本语法](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/)
 - [Java 编程规范](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
-::: 
+:::

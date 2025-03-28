@@ -7,7 +7,7 @@ tag:
   - Java
   - 数据库
   - JDBC
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 数据库编程
@@ -327,4 +327,4 @@ public class JPADao {
 ::: info 扩展阅读
 - [MyBatis 官方文档](https://mybatis.org/mybatis-3/)
 - [JPA 官方文档](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
-::: 
+:::

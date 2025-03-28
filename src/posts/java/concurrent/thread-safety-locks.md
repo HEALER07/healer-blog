@@ -7,7 +7,7 @@ tag:
   - Java
   - 线程安全
   - 锁机制
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 线程安全与锁机制
@@ -488,4 +488,4 @@ public class LockUpgrade {
 ::: info 扩展阅读
 - [Java 并发编程实战](https://jcip.net/)
 - [Java 官方文档 - 并发编程](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
-::: 
+:::

@@ -1,10 +1,11 @@
 ---
 title: Spring Core 核心概念
-icon: leaf
+icon: java
 order: 1
 category:
   - Java
 tag:
+  - Java
   - Spring
   - 框架
 date: 2024-03-24

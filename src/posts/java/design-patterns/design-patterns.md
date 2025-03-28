@@ -7,7 +7,7 @@ tag:
   - Java
   - 设计模式
   - 面向对象
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 设计模式
@@ -631,4 +631,4 @@ public class CommonMistakes {
 ::: info 扩展阅读
 - [Design Patterns](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
 - [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
-::: 
+:::

@@ -7,7 +7,7 @@ tag:
   - Java
   - 集合
   - 框架
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 集合框架
@@ -332,4 +332,4 @@ Map<String, Integer> concurrentMap = new ConcurrentHashMap<>();
 ::: info 扩展阅读
 - [Java 官方文档 - 集合框架](https://docs.oracle.com/javase/tutorial/collections/)
 - [Java 集合框架源码分析](https://github.com/CarpenterLee/JCFInternals)
-::: 
+:::

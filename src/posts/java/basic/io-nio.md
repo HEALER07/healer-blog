@@ -1,4 +1,4 @@
- ---
+---
 title: Java IO/NIO
 icon: java
 category:
@@ -7,7 +7,7 @@ tag:
   - Java
   - IO
   - NIO
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java IO/NIO

@@ -7,7 +7,7 @@ tag:
   - Java
   - 并发
   - 多线程
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 并发编程
@@ -496,4 +496,4 @@ public class AtomicReference {
 ::: info 扩展阅读
 - [Java Concurrency in Practice](https://jcip.net/)
 - [Java 并发编程实战](https://book.douban.com/subject/10484692/)
-::: 
+:::

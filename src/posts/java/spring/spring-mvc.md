@@ -1,12 +1,12 @@
 ---
 title: Spring MVC 详解
-icon: leaf
-order: 2
+icon: java
+order: 5
 category:
   - Java
 tag:
+  - java
   - Spring
-  - MVC
   - Web
 date: 2024-03-24
 ---

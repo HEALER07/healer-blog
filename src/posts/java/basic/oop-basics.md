@@ -7,7 +7,7 @@ tag:
   - Java
   - 面向对象
   - 基础
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Java 面向对象基础
@@ -247,4 +247,4 @@ public class MyClass {
 ::: info 扩展阅读
 - [Java 官方文档 - 类和对象](https://docs.oracle.com/javase/tutorial/java/javaOO/)
 - [设计模式](https://refactoring.guru/design-patterns)
-::: 
+:::

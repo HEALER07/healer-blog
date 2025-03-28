@@ -1,4 +1,4 @@
- ---
+---
 title: Spring AMQP
 icon: java
 category:
@@ -7,7 +7,7 @@ tag:
   - Java
   - Spring
   - 消息队列
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Spring AMQP

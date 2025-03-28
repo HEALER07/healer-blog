@@ -1,6 +1,7 @@
 ---
 title: Spring Cloud
 icon: java
+order: 3
 category:
   - Java 核心
 tag:

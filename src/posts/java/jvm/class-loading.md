@@ -7,7 +7,7 @@ tag:
   - Java
   - JVM
   - 类加载
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # JVM 类加载机制
@@ -449,4 +449,4 @@ public class ClassLoadingDeadlock {
 ::: info 扩展阅读
 - [JVM 规范](https://docs.oracle.com/javase/specs/jvms/se8/html/)
 - [深入理解 Java 虚拟机](https://book.douban.com/subject/34907497/)
-::: 
+:::

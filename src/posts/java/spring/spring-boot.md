@@ -1,16 +1,15 @@
 ---
 title: Spring Boot 详解
-icon: leaf
-order: 3
+icon: java
+order: 2
 category:
   - Java
 tag:
+  - Java
   - Spring
-  - Boot
   - 框架
 date: 2024-03-24
 ---
-
 # Spring Boot 详解
 
 ## 1. Spring Boot 简介

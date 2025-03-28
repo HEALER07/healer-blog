@@ -7,7 +7,7 @@ tag:
   - Java
   - Spring
   - 批处理
-date: 2024-03-19
+date: 2021-03-19
 ---
 
 # Spring Batch
@@ -258,4 +258,4 @@ public class ConditionalConfig {
 - [Spring Batch 官方文档](https://docs.spring.io/spring-batch/docs/current/reference/html/)
 - [Spring Batch 最佳实践](https://docs.spring.io/spring-batch/docs/current/reference/html/batch-processing.html)
 - [Spring Batch 示例](https://github.com/spring-projects/spring-batch/tree/main/spring-batch-samples)
-::: 
+:::
