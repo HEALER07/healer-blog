@@ -23,6 +23,21 @@ projects:
     desc: 上百种MCP工具
     link: https://smithery.ai/
 
+  - icon: link
+    name: Tiny Wow
+    desc: 免费工具（图像、视频、文件）
+    link: https://tinywow.com/
+
+  - icon: link
+    name: MD2Card
+    desc: Markdown 转知识卡片工具
+    link: https://md2card.com/zh
+
+  - icon: link
+    name: 纸由我 PaperMe
+    desc: 自定义打印纸生成器
+    link: https://paperme.toolooz.com/
+
 footer: 人生如旷野,山海亦归途。
 ---
 
