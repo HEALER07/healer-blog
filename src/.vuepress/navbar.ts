@@ -74,9 +74,9 @@ export default navbar([
     link: "/posts/architecture/",
   },
   {
-    text: "开发工具",
-    icon: "tools",
-    link: "/posts/tools/",
+    text: "日常记录",
+    icon: "daily",
+    link: "/posts/daily/",
   },
   {
     text: "关于",

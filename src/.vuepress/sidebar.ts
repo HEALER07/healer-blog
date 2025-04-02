@@ -108,10 +108,10 @@ export default sidebar({
       children: "structure",
     },
   ],
-  "/posts/tools/": [
+  "/posts/daily/": [
     {
-      text: "开发工具",
-      icon: "tools",
+      text: "日常记录",
+      icon: "daily",
       collapsible: true,
       children: "structure",
     },
