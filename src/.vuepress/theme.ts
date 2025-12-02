@@ -139,9 +139,8 @@ export default hopeTheme({
       components: ["Badge", "VPCard"],
     },
 
-    icon: {
-      prefix: "fa6-solid:",
-    },
+    icon: {},
+    // Remove prefix to use default icons
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {

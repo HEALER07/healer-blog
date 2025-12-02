@@ -10,7 +10,7 @@ cover:
 
 ## 个人简介
 
-你好！我是程序员healer，一名热爱技术的开发者。我专注于Java开发，对Web开发和数据库技术有浓厚的兴趣。在这里，我会分享我的技术心得和学习经验。
+你好！我是healer。
 
 ## 专业技能
 
@@ -41,7 +41,7 @@ cover:
 ## 联系方式
 
 - **GitHub**：[healer07](https://github.com/healer07)
-- **邮箱**：your.email@example.com
+- **邮箱**：healer_wyn@163.com
 
 
 ## 这仅仅只是一个开始，未完待续…
