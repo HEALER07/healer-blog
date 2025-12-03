@@ -54,15 +54,15 @@ public class BatchReader {
     public FlatFileItemReader<User> fileReader() {
         FlatFileItemReader<User> reader = new FlatFileItemReader<>();
         reader.setResource(new ClassPathResource("users.csv"));
-        reader.setLineMapper(new DefaultLineMapper<User>() {{
-            setLineTokenizer(new DelimitedLineTokenizer() {{
-                setNames("id", "username", "email");
-                setDelimiter(",");
-            }});
-            setFieldSetMapper(new BeanWrapperFieldSetMapper<User>() {{
-                setTargetType(User.class);
-            }});
-        }});
+        DefaultLineMapper<User> lineMapper = new DefaultLineMapper<>();
+        DelimitedLineTokenizer lineTokenizer = new DelimitedLineTokenizer();
+        lineTokenizer.setNames("id", "username", "email");
+        lineTokenizer.setDelimiter(",");
+        lineMapper.setLineTokenizer(lineTokenizer);
+        BeanWrapperFieldSetMapper<User> fieldSetMapper = new BeanWrapperFieldSetMapper<>();
+        fieldSetMapper.setTargetType(User.class);
+        lineMapper.setFieldSetMapper(fieldSetMapper);
+        reader.setLineMapper(lineMapper);
         return reader;
     }
     
