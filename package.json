@@ -19,6 +19,7 @@
     "vuepress-theme-hope": "2.0.0-rc.74"
   },
   "dependencies": {
-    "@vuepress/theme-default": "^1.9.10"
+    "@vuepress/theme-default": "^1.9.10",
+    "iconify-icon": "^3.0.2"
   }
 }
